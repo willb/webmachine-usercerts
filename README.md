@@ -1,4 +1,4 @@
 webmachine-usercerts
 ====================
 
-Simple example of using client certificates with Webmachine
+This is a simple app showing how to use client certificates with Webmachine
